@@ -1,0 +1,6 @@
+c:\users\kuldeep.yadav\documents\visual studio 2015\Projects\PracticePrograming\PracticePrograming\bin\Debug\PracticePrograming.exe.config
+c:\users\kuldeep.yadav\documents\visual studio 2015\Projects\PracticePrograming\PracticePrograming\bin\Debug\PracticePrograming.exe
+c:\users\kuldeep.yadav\documents\visual studio 2015\Projects\PracticePrograming\PracticePrograming\bin\Debug\PracticePrograming.pdb
+c:\users\kuldeep.yadav\documents\visual studio 2015\Projects\PracticePrograming\PracticePrograming\obj\Debug\PracticePrograming.csprojResolveAssemblyReference.cache
+c:\users\kuldeep.yadav\documents\visual studio 2015\Projects\PracticePrograming\PracticePrograming\obj\Debug\PracticePrograming.exe
+c:\users\kuldeep.yadav\documents\visual studio 2015\Projects\PracticePrograming\PracticePrograming\obj\Debug\PracticePrograming.pdb
